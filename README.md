@@ -1,2 +1,1 @@
-# CMP73010-Ass1-2018
-Document for CMP73010 Assignement 1.
+Hi this is surender singh. Everything is going on good.
